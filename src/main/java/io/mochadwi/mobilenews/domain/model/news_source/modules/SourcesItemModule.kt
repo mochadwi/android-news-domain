@@ -1,6 +1,6 @@
-package io.mochadwi.mobilenews.domain.data.news_source.modules
+package io.mochadwi.mobilenews.domain.model.news_source.modules
 
-import io.mochadwi.mobilenews.domain.data.news_source.SourcesItem
+import io.mochadwi.mobilenews.domain.model.news_source.SourcesItem
 import io.realm.annotations.RealmModule
 
 /**

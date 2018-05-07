@@ -1,4 +1,4 @@
-package io.mochadwi.mobilenews.domain.data.articles
+package io.mochadwi.mobilenews.domain.model.articles
 
 import com.google.gson.Gson
 import com.google.gson.annotations.SerializedName

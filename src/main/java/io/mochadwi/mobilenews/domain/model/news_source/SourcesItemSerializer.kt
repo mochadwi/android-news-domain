@@ -1,4 +1,4 @@
-package io.mochadwi.mobilenews.domain.data.news_source
+package io.mochadwi.mobilenews.domain.model.news_source
 
 import com.google.gson.JsonElement
 import com.google.gson.JsonObject
