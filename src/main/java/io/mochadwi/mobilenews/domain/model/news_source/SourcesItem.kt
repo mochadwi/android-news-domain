@@ -2,7 +2,7 @@ package io.mochadwi.mobilenews.domain.model.news_source
 
 import com.google.gson.Gson
 import com.google.gson.annotations.SerializedName
-import io.mochadwi.mobilenews.common.util.CloneableRealmObject
+import io.mochadwi.mobilenews.domain.model.CloneableRealmObject
 import io.realm.RealmObject
 import io.realm.annotations.PrimaryKey
 import io.realm.annotations.RealmClass
